@@ -1,4 +1,4 @@
-# <p style="color:#e57373">Object Oriented Programming <strong>Notes</</p>
+# <p style="color:#e57373">Object Oriented Programming <strong>Notes</strong></p>
 
 - **<b style="color:#e57373">Abstraction</b> :** Representation of complexity. 
  _Eg. when you represent the cars property and behavior. The car has property of color, brand and type. It has a behavior of accelarating and breaking_
