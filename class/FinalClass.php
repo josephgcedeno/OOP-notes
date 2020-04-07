@@ -6,7 +6,11 @@
 
 namespace Inc;
 
-class FinalClass{
+Final class FinalClass{
 
+	public function start()
+	{
+		echo "Car is starting";
+	}
 	
 }
