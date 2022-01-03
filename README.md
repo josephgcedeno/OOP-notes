@@ -11,7 +11,8 @@
 
 - **<b style="color:#e57373"> Classes</b> :** The classes that holds the variables / property and method / behaviour.
 
-- **<b style="color:#e57373"> Interface. </b> :** The classes that holds the variables / property and method / behaviour.
+- **<b style="color:#e57373"> Interface. </b> :** 
+In Object Oriented Programming, an Interface is a description of all functions that an object must have in order to be an "X". ... The purpose of interfaces is to allow the computer to enforce these properties and to know that an object of TYPE T (whatever the interface is ) must have functions called X,Y,Z, etc..
 
 - **<b style="color:#e57373">Objects </b>:** When Instantiating the class it becomes object.
 
